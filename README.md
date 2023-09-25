@@ -16,28 +16,27 @@
 <p align="center">  
   <img src="https://img.shields.io/badge/Vercel-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
 </p>
-<h3 align="center"><a href="https://secure-note-waseem49.vercel.app/" target="_blank"><strong>Want to see live preview »</strong></a></h3>
+<h3 align="center"><a href="https://gorgeous-moxie-1463ef.netlify.app/" target="_blank"><strong>Want to see live preview »</strong></a></h3>
 <br />
 <br />
-"Developed a feature-rich note-taking web application called 'SecureNote' using a full-stack tech-stack like Next.js, React.js, MongoDB, Json-web-Token, Bcypt. Users can register, log in securely, and create, edit, or delete their notes. The app leverages user authentication, MongoDB for data storage, and integrates encryption of passwoord with bcryptjs . This project demonstrates proficiency in web development, database management, and user authentication, showcasing a strong commitment to building secure and user-friendly applications."
+<h3></h3>
 <br />
 <br />
+
 ## 🚀 User Can Do
-- Login and Register User Account
-- Create, Edit and Delete and Notes
-- Logout
+- User can add product to cart & remove from cart
+- User can checkout
+
 ## 🚀Features or Functionlty
-- Authentication - User can't create note without login
-- CRUD  - Note can be done (Create,Read,Update,Delete)
+- Add to cart
+- & Remove from Cart
 <br />
 <br />
-<h1 align="center"> 🏷️ Desktop View of Note, Login and Register Page</h1>
-<img src="https://github.com/Waseem49/SecureNote/assets/111652485/396ca5fd-ce42-413f-b5a0-d03a083b1b33" width="auto" alt="note"/>
+<h1 align="center"> 🏷️ Landing Page</h1>
+<img src="https://github.com/Waseem49/Amazon-Clone/assets/111652485/dfb4fc03-70da-4def-91cf-ed2742bec0fe" width="auto" alt="note"/>
 <br />
-<img src="https://github.com/Waseem49/SecureNote/assets/111652485/ca6cc3c6-ca22-4b64-bc81-695c4138f41d" width="auto" alt="Cart Modal with product"/>
-<br />
-<img src="https://github.com/Waseem49/SecureNote/assets/111652485/41d3358f-1800-4359-aab5-d8a3d69c7d92" width="auto" alt="Cart Modal with product"/>
-<br />
+<h1 align="center"> 🏷️ Cart Page</h1>
+<img src="https://github.com/Waseem49/Amazon-Clone/assets/111652485/df1dac0f-fa3a-4f19-affa-6aa485b72b3c" width="auto" alt="Cart Modal with product"/>
 <br />
 <br />
 <h2 >Contact</h2>   
