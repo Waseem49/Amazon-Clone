@@ -1,12 +1,13 @@
-<h1 align="center">SecureNote</h1>
-<h3 align="center">Your Personal Note Organizer</h3>
+<h1 align="center">Amazon_Clone</h1>
+<!-- <h3 align="center">Your Personal Note Organizer</h3> -->
 <br />
 <h2 align="center">🖥️ Tech Stack</h2>
 <p align="center">
 <!--    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" /> -->
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-  <img src="https://img.shields.io/badge/Rest_API-02303A?style=for-the-badge&logo=react-router&logoColor=white" alt="restAPI" />
+     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+     <img src="https://img.shields.io/badge/Rest_API-02303A?style=for-the-badge&logo=react-router&logoColor=white" alt="restAPI" />
 <!--   <img src="https://img.shields.io/badge/Json%20Web%20Token-339933?style=for-the-badge&logo=jsonwebtoken&logoColor=white" alt="Jwt"/> -->
 <!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> -->
 <!--   <img src="https://img.shields.io/badge/Bcrypt-8A2BE2?style=for-the-badge&logo=bcrypt&logoColor=white" alt="bcrypt"/> -->
@@ -18,17 +19,16 @@
 </p>
 <h3 align="center"><a href="https://gorgeous-moxie-1463ef.netlify.app/" target="_blank"><strong>Want to see live preview »</strong></a></h3>
 <br />
-<br />
-<h3></h3>
-<br />
+<h3>
+   I have created this clone to explore React.js
+</h3>
 <br />
 
 ## 🚀 User Can Do
 - User can add product to cart & remove from cart
 - User can checkout
-
 ## 🚀Features or Functionlty
-- Add to cart
+- Add to Cart
 - & Remove from Cart
 <br />
 <br />
